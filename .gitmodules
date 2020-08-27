@@ -1,0 +1,3 @@
+[submodule "SUBMODULE_DIR"]
+	path = SUBMODULE_DIR
+	url = https://github.com/asafrdt/Opencv-WebApp.git
