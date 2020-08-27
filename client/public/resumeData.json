@@ -1,0 +1,126 @@
+{
+  "main": {
+    "name": "Asaf Arditi",
+    "occupation": "Fourth year software engineering student",
+    "description": "Fourth year software engineering student from Tel-Aviv.",
+    "description2": "Add Somthing here!",
+    "image": "profilepic.jpg",
+    "bio": "Throughout my life I have lived technology. From gaming as a child, through photography and video editing, to coding and developing complex algorithms. Currently, I am available for any type of job that will challenge me and give me more experience in the software world.",
+    "email": "asafrdt@gmail.com",
+    "phone": "+972-54347676",
+    "address": {
+      "city": "Tel Aviv",
+      "state": "Israel"
+    },
+    "website": "http://www.asafrdt.com",
+    "resumedownload": "https://drive.google.com/file/d/1rSDF-zFFNZA9Vg-0fxa-MG4g3gwTJpno/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/asaf.arditi",
+        "className": "fa fa-facebook"
+      },
+
+      {
+        "name": "vimeo",
+        "url": "https://vimeo.com/user68116729",
+        "className": "fa fa-vimeo-square"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/asaf-arditi-43352b179/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/asafrdt/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/asafrdt",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "education": [
+      {
+        "school": "Sami Shamoon College of engineering",
+        "degree": "B.Sc Software engineering student"
+      }
+    ],
+    "work": [
+      {
+        "company": "Freelance business owner",
+        "title": "Video editor & Photographer",
+        "years": "2015 - Current"
+      }
+    ],
+    "military": [
+      {
+        "company": "Maglan unit",
+        "title": "Platoon commander",
+        "years": "2014 - 2015"
+      }
+    ],
+    "military1": [
+      {
+        "title1": "Combat soldier",
+        "years1": "2011 - 2014"
+      }
+    ],
+
+    "skills": [
+      {
+        "name": "Python",
+        "level": "80%"
+      },
+
+      {
+        "name": "ReactJs",
+        "level": "50%"
+      },
+      {
+        "name": "CSS",
+        "level": "50%"
+      },
+      {
+        "name": "HTML5",
+        "level": "50%"
+      },
+      {
+        "name": "VueJs",
+        "level": "50%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "80%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Form-Builder (ReactJS, NodeJS, MongoDB)",
+        "category": "Generate a custom form which anyone can submit to. using ReactJS, NodeJS + Express, MongoDB.",
+        "image": "form-builder.png",
+        "url": "https://form-builder-asafrdt.herokuapp.com/"
+      },
+      {
+        "title": "BSport",
+        "category": "Social network for finding sports activities in Beer Sheva. using Java, Android Studio and Firabase as a Data Base.",
+        "image": "Bsport.png",
+        "url": "https://www.youtube.com/watch?v=Mc7Z8zyrLYc&feature=youtu.be"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Face Detection App",
+        "user": "Kareem Abdul J"
+      }
+    ]
+  }
+}
